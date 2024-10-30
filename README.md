@@ -1,11 +1,5 @@
 # Income App
 
-This is
-
-## Project Overview
-
-[Project Title] is a [short description of what the project does or its purpose]. This project demonstrates [any unique aspects or features].
-
 ## Dependencies
 
 - **Rust** - Programming language
