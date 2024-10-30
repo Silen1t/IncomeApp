@@ -30,8 +30,8 @@ Clone the Repository
 Replace <repository-url> and <project-directory> with the actual values for your project.
 
 ```bash
-git clone <repository-url>
-cd <project-directory>
+git clone https://github.com/Silen1t/IncomeApp
+cd IncomeApp
 ```
 Build the Project
 Run the following command to compile:
