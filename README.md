@@ -1,6 +1,6 @@
-# Project Title
+# Income App
 
-A brief description of the project.
+This is
 
 ## Project Overview
 
@@ -11,37 +11,37 @@ A brief description of the project.
 - **Rust** - Programming language
 - **Slint** - UI toolkit
 
-To add dependencies, include the following in your `Cargo.toml`:
+
 
 ```toml
 [dependencies]
-slint = "1.0"  # Use the latest version available
-Add other dependencies as required by your project.
+slint = "1.8.0" 
+```
 
-Getting Started
+## Getting Started
 Prerequisites
 Ensure you have Rust installed. Check your installation with:
 
-bash
-Copy code
+```bash
 rustc --version
 cargo --version
+```
 Clone the Repository
 Replace <repository-url> and <project-directory> with the actual values for your project.
 
-bash
-Copy code
+```bash
 git clone <repository-url>
 cd <project-directory>
+```
 Build the Project
 Run the following command to compile:
 
-bash
-Copy code
+``` bash
 cargo build
+```
 Running the Application
 To start the application, use:
 
-bash
-Copy code
+```bash
 cargo run
+```
